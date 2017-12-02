@@ -1,0 +1,23 @@
+#container{
+    position: relative;
+    top: 200px;
+     margin: auto;
+     width:800px;
+
+      }
+img
+    {
+    width:200px;
+     height:220px;
+    }
+
+  h2{
+      margin: 20px;
+  }
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: #2A8511;
+}
